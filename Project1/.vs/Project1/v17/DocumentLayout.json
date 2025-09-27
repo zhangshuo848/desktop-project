@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E709669A-F1B8-4941-85BA-6E9CAC9B4C9C}|Project1\\Project1.vcxproj|C:\\Users\\LENOVO\\Desktop\\Project1\\Project1\\\u6E901.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E709669A-F1B8-4941-85BA-6E9CAC9B4C9C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\\u6E901.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E709669A-F1B8-4941-85BA-6E9CAC9B4C9C}|Project1\\Project1.vcxproj|C:\\Users\\LENOVO\\Desktop\\Project1\\Project1\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E709669A-F1B8-4941-85BA-6E9CAC9B4C9C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Project1\\Project1\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "Project1\\\u6E90.cpp",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Project1\\Project1\\\u6E90.cpp",
+              "RelativeToolTip": "Project1\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T15:08:31.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E901.cpp",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Project1\\Project1\\\u6E901.cpp",
+              "RelativeDocumentMoniker": "Project1\\\u6E901.cpp",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Project1\\Project1\\\u6E901.cpp",
+              "RelativeToolTip": "Project1\\\u6E901.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-04T14:18:53.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
